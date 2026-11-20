@@ -1,0 +1,16 @@
+{
+  "name": "StudyLove",
+  "short_name": "StudyLove",
+  "description": "Anotações e provas em PDF, sem anúncios, funciona offline",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8e9ee",
+  "theme_color": "#d9648a",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

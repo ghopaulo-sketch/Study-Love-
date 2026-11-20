@@ -1,0 +1,26 @@
+StudyLove offline - como publicar (GitHub Pages)
+1. Crie um repositorio no GitHub (ex.: studylove) e envie TODOS os arquivos desta pasta (mantendo as pastas libs, fonts e icons).
+2. Settings > Pages > Source: "Deploy from a branch" > main > /(root) > Save.
+3. Aguarde 1-2 min e abra o link https://SEU-USUARIO.github.io/studylove/ no Chrome do tablet.
+4. Com internet, deixe a pagina carregar por completo. Depois: menu (3 pontinhos) > "Instalar app" / "Adicionar a tela inicial".
+5. Teste: ative o modo aviao e abra o StudyLove pelo icone.
+Para atualizar o app no futuro: troque os arquivos e aumente o numero em VERSAO dentro de sw.js (ex.: studylove-v7).
+
+Versao 2: fontes de letra, folhas em branco (lisa, pautada, quadriculada, dividida ao meio) dentro de qualquer caderno ou PDF, e capa.
+Se voce ja tinha publicado a versao 1: substitua TODOS os arquivos (inclusive a pasta fonts). Depois a namorada abre o app com internet,
+fecha e abre de novo para a atualizacao valer. Os cadernos dela continuam salvos.
+
+Versao 3: capa sem etiqueta branca e 12 temas, adesivos (washi, post-its, clipes, molduras, simbolos, formas), paginas pontilhada e escura,
+trocar fonte/tamanho/cor e editar textos ja escritos (ferramenta mao + toque no texto), marca-texto em formato de pilula.
+Para atualizar: substitua todos os arquivos (sw.js agora e studylove-v7), abra o app com internet, feche e abra de novo.
+
+Versao 4: barra de ferramentas em grupos, painel de paginas (miniaturas e marcadores), barra de rolagem rapida, 26 fontes,
+10 modelos de pagina em versao clara e escura, adesivos de matematica/fisica/quimica/biologia/ciencias, capa sem texto.
+Para atualizar: substitua TODOS os arquivos (inclusive a pasta fonts; o sw.js agora e studylove-v7), abra o app com internet,
+feche e abra de novo.
+
+Versao 5: tamanho do texto - seletor "pt" na barra (textos novos), controle deslizante e A-/A+ no painel do texto selecionado,
+e alca no canto do texto para aumentar/diminuir arrastando. O tamanho do texto nao depende mais da espessura do traco.
+Para atualizar: substitua todos os arquivos (sw.js agora e studylove-v5), abra o app com internet, feche e abra de novo.
+
+Versao 6: o botao de cor do painel de texto abre uma paleta; escolher cor na barra com um texto selecionado tambem pinta o texto. sw.js agora e studylove-v6.
