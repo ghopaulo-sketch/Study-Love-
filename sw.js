@@ -1,6 +1,6 @@
 /* StudyLove - service worker: guarda o app no aparelho para funcionar sem internet.
    Ao publicar uma nova versão do app, aumente o número em VERSAO para forçar a atualização. */
-const VERSAO = 'studylove-v6';
+const VERSAO = 'studylove-v7';
 const ARQUIVOS = [
   './', 'index.html', 'manifest.webmanifest',
   'libs/pdf.min.js', 'libs/pdf.worker.min.js', 'libs/pdf-lib.min.js',
